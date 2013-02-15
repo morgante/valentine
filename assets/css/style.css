@@ -1,0 +1,9 @@
+.container.marketing {
+	margin-top: 100px;
+}
+
+.navbar {
+	position: fixed;
+	width: inherit;
+	opacity: 0.9;
+}
