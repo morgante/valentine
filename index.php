@@ -47,7 +47,6 @@
 					<li>brilliant</li>
 					<li>sociable</li>
 					<li>enjoyable</li>
-					<li>pleasing</li>
 					<li>outgoing</li>
 					<li>happy</li>
 					<li>humorous</li>
@@ -85,8 +84,11 @@
 
 		</div>
 		
-		<div id="neruda" class="section pinned">
-			A bit of Neruda FOR YOU.
+		<div id="end" class="section pinned">
+			<div class="heart">
+				<p class="big">So, will you be mine?*</p>
+				<p class="small">Hopefully in person in future years.</p>
+			</div>
 		</div>
 		
 	</div>
